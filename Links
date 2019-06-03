@@ -1,0 +1,5 @@
+Em html os links são definidos com a tag <a>
+
+<a href="url" >....</a>
+
+ex: <a href="https://www.seusite.com.br">Visite nosso site</a>
