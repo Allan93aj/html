@@ -1,0 +1,8 @@
+tag para imagem
+<img src="imagem/nomedaimagem.png ou jpg" alt="nome da imagem">
+
+tag para colocar legenda nas imagens
+<figure>
+  <img src="" alt> 
+  <figcaption>Aqui entra uma legenda</figcaption>
+</figure>
